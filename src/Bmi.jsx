@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import bmiImg from "./assets/bmi.jpg"
-import { Result } from 'postcss';
 
 function Bmi() {
     const [height,setHeight] =useState("");
